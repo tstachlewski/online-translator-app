@@ -11,3 +11,10 @@ W tym celu zostaną wykorzystane trzy usługi AI chmurowe:
 == Kroki ==
 **1** TODO
 **2** TODO
+
+
+Phase 0: Environment setup
+-----
+1. Sign into the AWS Console and choose `us-east-1` (N. Virginia) region.
+2. Open Cloud9 service and create new environment. You can use default settings.
+3. Download all needed resources using following commands.
